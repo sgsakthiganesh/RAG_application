@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+streamlit
+langchain
+langchain-community
+pypdf
+transformers
+sentence-transformers
+faiss-cpu
